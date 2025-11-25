@@ -2,7 +2,7 @@
     <header>
         <div class="profile-header">
             <div class="avatar">
-                <div style="width: 100%; height: 100%; background: #444; display: flex; align-items: center; justify-content: center; color: #fff; font-weight: bold">AI</div>
+                <img src="/images/avatar-ai.jpg" alt="AI Avatar" />
             </div>
             <div class="profile-info">
                 <h1>Liuziting</h1>
