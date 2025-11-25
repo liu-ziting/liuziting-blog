@@ -12,7 +12,7 @@ export const projects: Project[] = [
         title: '一饭封神',
         url: 'https://eat.lz-t.top/',
         github: 'https://github.com/liu-ziting/what-to-eat',
-        desc: '基于随机算法与偏好的AI食物决策助手。',
+        desc: '基于AI的智能菜谱生成平台，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。',
         icon: '🍜',
         tag: 'Life'
     },
