@@ -17,15 +17,7 @@ export const projects: Project[] = [
         tag: 'Life'
     },
     {
-        title: '小红书解析与AI分析投流',
-        url: 'https://xhs.lz-t.top/',
-        github: 'https://github.com/liu-ziting/xhs-parser',
-        desc: '小红书解析+智谱AI投流分析，数据驱动内容创作。',
-        icon: '📊',
-        tag: 'Analytics'
-    },
-    {
-        title: 'AI 情绪拍立得',
+        title: '宠物情绪识别拍立得',
         url: 'https://ai-instant-camera.lz-t.top/',
         github: 'https://github.com/liu-ziting/ai-instant-camera',
         desc: '宠物情绪识别并生成复古拍立得风格照片。',
@@ -39,6 +31,30 @@ export const projects: Project[] = [
         desc: '上传OOTD，获取AI的毒舌或专业穿搭建议。',
         icon: '👗',
         tag: 'Fashion'
+    },
+    {
+        title: '复古 Bot',
+        url: 'https://bot.lz-t.top/',
+        github: 'https://github.com/liu-ziting/retro-ai',
+        desc: '怀旧风格聊天机器人，独特的交互体验。',
+        icon: '👾',
+        tag: 'Chatbot'
+    },
+    {
+        title: 'AI 宠物写真',
+        url: 'https://pet-ai-portrait.lz-t.top/',
+        github: 'https://github.com/liu-ziting/pet-ai-portrait',
+        desc: '生成高质量宠物摄影提示词。',
+        icon: '🐾',
+        tag: 'AIGC'
+    },
+    {
+        title: '小红书解析与AI分析投流',
+        url: 'https://xhs.lz-t.top/',
+        github: 'https://github.com/liu-ziting/xhs-parser',
+        desc: '小红书解析+智谱AI投流分析，数据驱动内容创作。',
+        icon: '📊',
+        tag: 'Analytics'
     },
     {
         title: 'Image To Prompt',
@@ -63,21 +79,5 @@ export const projects: Project[] = [
         desc: '集成通用AI对话、AI识图与生图的综合平台。',
         icon: '🤖',
         tag: 'All-in-One'
-    },
-    {
-        title: '复古 Bot',
-        url: 'https://bot.lz-t.top/',
-        github: 'https://github.com/liu-ziting/retro-ai',
-        desc: '怀旧风格聊天机器人，独特的交互体验。',
-        icon: '👾',
-        tag: 'Chatbot'
-    },
-    {
-        title: 'AI 宠物写真',
-        url: 'https://pet-ai-portrait.lz-t.top/',
-        github: 'https://github.com/liu-ziting/pet-ai-portrait',
-        desc: '生成高质量宠物摄影提示词。',
-        icon: '🐾',
-        tag: 'AIGC'
     }
 ]
