@@ -9,12 +9,36 @@ export interface Project {
 
 export const projects: Project[] = [
     {
-        title: '小红书解析与投流',
+        title: '一饭封神',
+        url: 'https://eat.lz-t.top/',
+        github: 'https://github.com/liu-ziting/what-to-eat',
+        desc: '基于随机算法与偏好的AI食物决策助手。',
+        icon: '🍜',
+        tag: 'Life'
+    },
+    {
+        title: '小红书解析与AI分析投流',
         url: 'https://xhs.lz-t.top/',
         github: 'https://github.com/liu-ziting/xhs-parser',
         desc: '小红书解析+智谱AI投流分析，数据驱动内容创作。',
         icon: '📊',
         tag: 'Analytics'
+    },
+    {
+        title: 'AI 情绪拍立得',
+        url: 'https://ai-instant-camera.lz-t.top/',
+        github: 'https://github.com/liu-ziting/ai-instant-camera',
+        desc: '宠物情绪识别并生成复古拍立得风格照片。',
+        icon: '📸',
+        tag: 'Vision'
+    },
+    {
+        title: 'AI 穿搭锐评',
+        url: 'https://ootd.lz-t.top/',
+        github: 'https://github.com/liu-ziting/ootd-judge',
+        desc: '上传OOTD，获取AI的毒舌或专业穿搭建议。',
+        icon: '👗',
+        tag: 'Fashion'
     },
     {
         title: 'Image To Prompt',
@@ -49,35 +73,11 @@ export const projects: Project[] = [
         tag: 'Chatbot'
     },
     {
-        title: '一饭封神',
-        url: 'https://eat.lz-t.top/',
-        github: 'https://github.com/liu-ziting/what-to-eat',
-        desc: '基于随机算法与偏好的AI食物决策助手。',
-        icon: '🍜',
-        tag: 'Life'
-    },
-    {
         title: 'AI 宠物写真',
         url: 'https://pet-ai-portrait.lz-t.top/',
         github: 'https://github.com/liu-ziting/pet-ai-portrait',
         desc: '生成高质量宠物摄影提示词。',
         icon: '🐾',
         tag: 'AIGC'
-    },
-    {
-        title: 'AI 情绪拍立得',
-        url: 'https://ai-instant-camera.lz-t.top/',
-        github: 'https://github.com/liu-ziting/ai-instant-camera',
-        desc: '宠物情绪识别并生成复古拍立得风格照片。',
-        icon: '📸',
-        tag: 'Vision'
-    },
-    {
-        title: 'AI 穿搭锐评',
-        url: 'https://ootd.lz-t.top/',
-        github: 'https://github.com/liu-ziting/ootd-judge',
-        desc: '上传OOTD，获取AI的毒舌或专业穿搭建议。',
-        icon: '👗',
-        tag: 'Fashion'
     }
 ]
