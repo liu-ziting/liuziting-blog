@@ -17,6 +17,14 @@ export const projects: Project[] = [
         tag: 'Life'
     },
     {
+        title: 'GitHub 2025年度总结',
+        url: 'https://github2025.lz-t.top/',
+        github: 'https://github.com/liu-ziting/github-year-in-code',
+        desc: '深度解析你的 GitHub 仓库与技术栈，接入 MiMo AI 大模型，生成专属开发者数字名片',
+        icon: '📊',
+        tag: 'Analytics'
+    },
+    {
         title: '宠物情绪识别拍立得',
         url: 'https://ai-instant-camera.lz-t.top/',
         github: 'https://github.com/liu-ziting/ai-instant-camera',
