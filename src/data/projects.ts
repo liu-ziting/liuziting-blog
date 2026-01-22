@@ -9,6 +9,14 @@ export interface Project {
 
 export const projects: Project[] = [
     {
+        title: 'ThinkFlow',
+        url: 'https://thinkflow-ai.lz-t.top/',
+        github: 'https://github.com/liu-ziting/ThinkFlowAI',
+        desc: 'ThinkFlow AI 是一款基于 Vue 3 和 VueFlow 构建的次世代、本地优先（Local-first）AI 驱动思维导图工具。它不仅仅是一个绘图软件，更是一个能够与你共同思考的“脑力增幅器”。',
+        icon: '🧠',
+        tag: 'Vision'
+    },
+    {
         title: '一饭封神',
         url: 'https://eat.lz-t.top/',
         github: 'https://github.com/liu-ziting/what-to-eat',
