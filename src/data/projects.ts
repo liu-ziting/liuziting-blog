@@ -25,6 +25,14 @@ export const projects: Project[] = [
         tag: 'Life'
     },
     {
+        title: '工资银两换算器',
+        url: 'https://silver.lz-t.top/',
+        github: 'https://github.com/liu-ziting/SilverEra',
+        desc: '一款融合了历史经济学与人工智能技术的“工资-购买力”换算工具。它不仅能将你的现代月薪折算为中国历代（汉、唐、宋、明、清）的白银两数，更能通过MiMo-V2-Flash大模型，深度解析你在特定朝代的社会地位、职业匹配及生活水平。',
+        icon: '💰',
+        tag: 'Life'
+    },
+    {
         title: 'GitHub 2025年度总结',
         url: 'https://github2025.lz-t.top/',
         github: 'https://github.com/liu-ziting/github-year-in-code',
