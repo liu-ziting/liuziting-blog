@@ -17,6 +17,14 @@ export const projects: Project[] = [
         tag: 'Vision'
     },
     {
+        title: '实时金价看板',
+        url: 'https://gold-monitor.lz-t.top/',
+        github: 'https://github.com/liu-ziting/GoldMonitor',
+        desc: '一个极简风格的实时金价看板：同步多家银行与伦敦金报价，提供日内趋势图与关键统计卡（最高/最低/振幅/偏离均值/近 N 分钟变化），并支持一键生成 AI 洞察文本。',
+        icon: '💰',
+        tag: 'Finance'
+    },
+    {
         title: '一饭封神',
         url: 'https://eat.lz-t.top/',
         github: 'https://github.com/liu-ziting/what-to-eat',
